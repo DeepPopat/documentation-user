@@ -89,7 +89,7 @@ categories it will be applied.
 .. image:: media/use_routes07.png
     :align: center
 
-Open the product on which you want to apply the routes
+Open the product category on which you want to apply the routes
 (:menuselection:`Configuration --> Product Categories`). 
 Select the route(s) under the **Logistics** section :
 
